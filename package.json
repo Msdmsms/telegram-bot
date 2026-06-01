@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "grammy": "^1.43.0"
+  }
+}
